@@ -59,7 +59,7 @@ It also includes a **Streamlit web app** that allows users to input customer det
 
 ---
 
-**Mohammed Jawad**  
+**A Mohammed Jawad**  
   
 • 📎 [LinkedIn](https://www.linkedin.com/in/a-m-jawad/)  
 
